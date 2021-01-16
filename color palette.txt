@@ -1,0 +1,19 @@
+ --coal: #2c2c2c;
+    --void: #151518;
+    --night: #1d2126;
+    --midnight: #272e38;
+    --evening: #363f4b;
+    --alto: #f2f2f2;
+    --cement: #e7e7e7;
+    --buck: #f79533;
+    --sienna: #f37055;
+    --rose: #ef4e7b;
+    --wisteria: #a166ab;
+    --marino: #5073b8;
+    --chill: #1098ad;
+    --naga: #07b39b;
+    --spearmint: #6fba82;
+    --grad-rainbow: linear-gradient(90deg,var(--buck),var(--sienna),var(--rose),var(--wisteria),var(--marino),var(--chill),var(--naga),var(--spearmint));
+
+Sebas  9:18 PM
+The link to the staging site is https://codilation.github.io/moobells
