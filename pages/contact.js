@@ -76,7 +76,7 @@ export default function contact() {
           }
           a {
             margin-left: 0px;
-            color:#6fba82;
+            color:#5073b8;
           }
           a:hover {
             color:#6fba82;
