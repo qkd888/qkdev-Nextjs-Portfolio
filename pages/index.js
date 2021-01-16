@@ -47,7 +47,7 @@ function Welcome(props) {
             font-size: 40px;
           }
           h2 {
-            border-bottom: 2px solid #a166ab;
+            border-bottom: 2px solid #0b66c3;
             width: 400px;
             margin: auto;
             text-align: center;

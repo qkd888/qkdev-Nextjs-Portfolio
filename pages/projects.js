@@ -85,7 +85,7 @@ export default function projects() {
             
           }
           a {
-            color:white;
+            color:#5073b8;;
             
           }
           a:hover {
