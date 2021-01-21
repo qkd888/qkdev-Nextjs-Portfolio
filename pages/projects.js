@@ -61,7 +61,7 @@ export default function projects() {
           </p>
           <p>
             {" "}
-            <a href="https://evening-badlands-44327.herokuapp.com/">
+            <a href="https://pure-earth-79065.herokuapp.com/">
               {" "}
               Heroku App
             </a>
