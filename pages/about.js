@@ -26,14 +26,26 @@ export default function about() {
                 <h1>About</h1>
                 <p>My name is Quintin Kelly Dekker.</p>
                 <p>
-                    I am fueled by high energy levels and boundless enthusiasm, I’m easily
-                    inspired and more then willing to follow my fascinations wherever they
-                    take me. I’m passionate, expressive, multi-talented spirit with a
-                    natural ability to entertain and inspire.
+                    I live in the beautiful Garden-Route in the Western Cape. My hobbies include
+                    Music Production, Live Music, Web Development and Graphic Designing.
 
-                    Currently I am part of CodilationZA Development team, working on various
-                    Web Applications.
-        </p>
+
+                    I own a small indie records label called Klank Records.
+                    Our main focus genres are, Techno, Tech House, Deep tech and Minimal Tech.
+                    Klank Records was established in November 2016 and our catalogue has grown
+                    to over 300 releases.
+
+
+                    I also play a few instruments like the Guitar, Bass Guitar, Keyboard. I also
+                    produce electronic music using digital audio workstations and vst synthesizers.
+
+                    I have always been tinkering around on computers and electronic equipment
+                    and have recently completed a Full Stack Web Development course from Cambridge
+                    University, through Hyperiondev who are endorsed by Google, Facebook and Python.
+
+                    I speak HTML, CSS, Javascript, jQuary, jsx, React.js, Express
+                    Next.js, Node.js, MongoDB -MERN-STACK-
+               </p>
                 <style jsx>{`
           .about {
             width: 600px;
