@@ -27,16 +27,16 @@ export default function projects() {
         {/*ProjectItem Container */}
         <div className="projectItem">
           {/*Project name */}
-          <p className="name"> Name: Klank Records Webshop</p>
+          <p className="name"> Name: Klank Records Web Label</p>
           {/*Projects description */}
           <p>
             Description: An online electronic music store that is dedicated to providing
             EXCLUSIVE techno tracks with a few clicks.
           </p>
           {/*Project github repo link */}
-          <a href="  https://github.com/qkd888/Capstone-project-2-Klank-Records-Webshop">
+          <a href="  https://qkd888.github.io/qkdev-Klank-Records-Web-Label/">
             {" "}
-            Github Repo
+            Klank Records Web Label
           </a>
         </div>
         {/*Second project */}
