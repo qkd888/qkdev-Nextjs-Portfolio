@@ -28,7 +28,7 @@ export default function about() {
                 <p>
                     I live in the beautiful Garden-Route in the Western Cape. My hobbies include
                     Music Production, Live Music, Web Development and Graphic Designing.
-
+                    
 
                     I own a small indie records label called Klank Records.
                     Our main focus genres are, Techno, Tech House, Deep tech and Minimal Tech.
